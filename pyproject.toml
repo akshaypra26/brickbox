@@ -1,10 +1,10 @@
 [project]
 name = "brickbox"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.0.0"
+description = "A placeholder for brickbox project."
 readme = "README.md"
 authors = [
-    { name = "akshpra", email = "akshay.prabhu@konspec.com" }
+    { name = "akshpra", email = "akshay.pra26@gmail.com" }
 ]
 requires-python = ">=3.12"
 dependencies = []
